@@ -1,0 +1,5 @@
+Rad_(mV)	Temp_Subtracted_Square_(mV)
+5   1.41e9
+8   2.88e9
+13  4.53e9
+16  6.37e9
